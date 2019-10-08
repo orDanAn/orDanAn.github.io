@@ -1,5 +1,5 @@
 # orDanAn.github.io
 
 
-## [Ссылка на мой проект](https://ordanan.github.io/)
-## ver 1.1
+## [Ссылка на мой проект по регуляркам](https://ordanan.github.io/)
+## ver 1.2
