@@ -2,4 +2,4 @@
 
 
 ## [Ссылка на мой проект по регуляркам](https://ordanan.github.io/validation/index.html)
-## ver 1.6
+## ver 1.7
